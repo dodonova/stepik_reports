@@ -5,7 +5,8 @@ import json
 import requests
 import datetime
 
-from courses import COURSES, CLIENT_ID, CLIENT_SECRET
+from courses import COURSES
+from settings import CLIENT_ID, CLIENT_SECRET
 
 # Enter parameters below:
 # 1. Get your keys at https://stepik.org/oauth2/applications/
